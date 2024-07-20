@@ -70,10 +70,10 @@ height: 50px;
 textarea{
         margin-left: auto;
 }
-.row7 .div-1{
+.row .div-1{
         width: 100px;
         height: 300px;
-        border: 1px solid;
+        border: 1px solid black;
 }
 .hr{
         font-size: 30px;
