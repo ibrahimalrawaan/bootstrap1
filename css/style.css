@@ -85,11 +85,4 @@ textarea{
 .pc1 , .pc2{font-size: 25px;
         text-align: center;
 }
-@media (max-width:768px){
-        .row7{
-                flex-direction: column;
-                width: 150px ;
-                height: 300px;
-        }  
-}
 
